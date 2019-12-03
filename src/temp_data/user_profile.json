@@ -1,0 +1,10 @@
+{
+    "name": "John Smith",
+    "age": 99,
+    "languages": ["fr", "en"],
+    "status": "active",
+    "family": [
+        {"name": "Suzie Smith", "age": 25},
+        {"name": "John Smith Jr.", "age": 12}
+    ]
+}
