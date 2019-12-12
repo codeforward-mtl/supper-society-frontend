@@ -20,6 +20,7 @@ export default class MyProfile extends React.Component {
           <h1>My profile:</h1>
             <p>name: {profile.name}</p>
             <p>age: {profile.age}</p>
+            <p>description: {profile.description}</p>
             <p>languages:</p>
             <ul>
             {profile.languages.map((lg) => {
